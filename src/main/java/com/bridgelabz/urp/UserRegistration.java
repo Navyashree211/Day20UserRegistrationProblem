@@ -1,5 +1,5 @@
 /**
- * Valid First Name with first letter starting with capital and has minimum 3 characters in it.
+ * Valid Last Name with first letter starting with capital and has minimum 3 characters in it.
  *
  * @author: Navya Shree
  * @since: 13.10.2021
